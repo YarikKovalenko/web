@@ -1,0 +1,30 @@
+.misha {
+    padding: 10px;
+    background: rgba(23,134,54, 0.2);
+    width: 600px;
+    margin: auto;
+}
+
+
+
+.section {
+    width: 140px;
+    height: 140px;
+    background: red;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.row {
+    display: flex;
+
+    flex-direction: row;
+}

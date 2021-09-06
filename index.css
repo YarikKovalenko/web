@@ -1,0 +1,118 @@
+    .content {
+        background-color: rgb(100, 94, 94);
+        width: 1067px;
+        padding: 10px;
+        margin: auto;
+    }
+    .picture {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .card {
+        background-color: darkorange;
+        width: 185px;
+        height: 185px;
+        margin: 12px;
+        border-radius: 10px;
+        flex-direction: row;
+        cursor: pointer;
+        margin-bottom: 15px;
+    }
+    
+    .zip1 {
+        display: block;
+       justify-content: center;
+        align-items: center;
+    
+        width: auto;
+    }
+    .zip2 {
+        display: block;
+        justify-content: center;
+        align-items: center;
+      margin-bottom: 25px;
+        width: 599px;
+        height: 586px;
+    
+    }
+    .zip3 {
+        display: block;
+        justify-content: center;
+        align-items: center;
+      width: auto;
+      margin: auto;
+    }
+    #main{
+        width: 599px;
+        height: 586px;
+        margin: 12px;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+       
+    }
+    
+    img {
+        width: 185px;
+        height: 185px;
+        margin: auto;
+        border-radius: 10px;
+    }
+    
+    img:hover {
+        width: 200px;
+        height: 200px;
+       
+    }
+    
+    .one {
+        width: 80px;
+        background-color: rgb(100, 94, 94);
+        margin: 10px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+   
+    
+    p {
+        color: white;
+        margin: 1px;
+        padding: 1px;
+    }
+    
+    .zoro {
+        width: 60px;
+        background-color: rgba(39, 37, 37, 0.904);
+        border-radius: 10px;
+        margin-left: 950px;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+    }
+    
+    span {
+        color: white;
+        margin: 1px;
+        padding: 1px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .hover:hover {
+        justify-content: left;
+        align-items: center;
+        display: contents
+    }
+    
+    .hover {
+        justify-content: left;
+        align-items: center;
+        display: none
+    }
+    
+
+    
